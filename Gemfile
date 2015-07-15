@@ -1,1 +1,1 @@
-geem 'github-pages'
+gem 'github-pages'
